@@ -80,7 +80,9 @@ fn main() {
 
     // Mutable in rust
 
-    let mut num: u8 = 5;
-    num = 3;
-    println!("{}", num);
+    let mut num2: u8 = 5;
+    num2 = 3;
+    println!("{}", num2);
+
+    // Struct in rust
 }
